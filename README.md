@@ -1,2 +1,2 @@
 # emrecoskun705.github.io
-This is my CV website file for Github Pages.
+This is my Portfolio website file for Github Pages.
